@@ -1,0 +1,125 @@
+{
+  "versao": 1,
+  "exercicios": [
+    {
+      "id": "aq-001",
+      "nome": "Apanhada com bola",
+      "categoria": "Aquecimento",
+      "duracao": 10,
+      "descricao": "Num quadrado de 20x20 m, cada jogador conduz a sua bola. Dois apanhadores de colete tentam tocar nos colegas sem perder a própria bola. Quem é tocado troca de colete. Mudar de apanhadores a cada 2 minutos.",
+      "material": ["Cones", "Bolas", "Coletes"]
+    },
+    {
+      "id": "aq-002",
+      "nome": "Portas coloridas",
+      "categoria": "Aquecimento",
+      "duracao": 12,
+      "descricao": "Espalhar 8 portas de cones pequenos num espaço de 25x25 m. Os jogadores conduzem a bola e passam pelo maior número de portas em 45 segundos, sem repetir a mesma porta seguida. Repetir com pé direito, pé esquerdo e parte exterior do pé.",
+      "material": ["Cones", "Bolas"]
+    },
+    {
+      "id": "aq-003",
+      "nome": "Rondo 4x1",
+      "categoria": "Aquecimento",
+      "duracao": 15,
+      "descricao": "Quatro jogadores num quadrado de 8x8 m trocam a bola com um máximo de dois toques. Um defensor no meio tenta recuperar. Quem perde a bola passa para o meio. Formar vários grupos conforme o número de jogadores.",
+      "material": ["Cones", "Bolas", "Coletes"]
+    },
+    {
+      "id": "fin-001",
+      "nome": "Remate após condução",
+      "categoria": "Finalização",
+      "duracao": 20,
+      "descricao": "Duas filas a 20 m da baliza. O jogador conduz até um cone a 12 m e remata antes de o ultrapassar. Alternar as filas para rematar com os dois pés. Valorizar o remate colocado em vez da força.",
+      "material": ["Bolas", "Cones", "Balizas"]
+    },
+    {
+      "id": "fin-002",
+      "nome": "Tabela e remate",
+      "categoria": "Finalização",
+      "duracao": 20,
+      "descricao": "O jogador passa a um apoio à entrada da área, recebe a devolução em movimento e finaliza com um máximo de dois toques. Trocar o apoio a cada 5 repetições e variar o lado de entrada.",
+      "material": ["Bolas", "Cones", "Balizas"]
+    },
+    {
+      "id": "fin-003",
+      "nome": "Duelo 1x1 até à baliza",
+      "categoria": "Finalização",
+      "duracao": 15,
+      "descricao": "O treinador lança a bola para o espaço à frente de dois jogadores lado a lado. O que chegar primeiro ataca a baliza e o outro defende. Dar 8 segundos para finalizar.",
+      "material": ["Bolas", "Balizas"]
+    },
+    {
+      "id": "pas-001",
+      "nome": "Passe em triângulo",
+      "categoria": "Passe e receção",
+      "duracao": 15,
+      "descricao": "Grupos de três num triângulo com 10 m de lado. Passar e seguir para o cone do colega que recebeu. Receber com o pé mais afastado e orientar o primeiro toque para a próxima direção. Trocar o sentido a cada 2 minutos.",
+      "material": ["Bolas", "Cones"]
+    },
+    {
+      "id": "pas-002",
+      "nome": "Passe entre portas",
+      "categoria": "Passe e receção",
+      "duracao": 15,
+      "descricao": "Pares num espaço com várias portas de cones de 2 m. Cada par soma um ponto por cada passe que atravesse uma porta e seja controlado do outro lado. Não repetir a mesma porta seguida. Jogar séries de 90 segundos.",
+      "material": ["Bolas", "Cones"]
+    },
+    {
+      "id": "dri-001",
+      "nome": "Slalom e mudança de direção",
+      "categoria": "Drible e condução",
+      "duracao": 15,
+      "descricao": "Duas filas e dois percursos de 6 cones separados por 1,5 m. Conduzir em slalom com toques curtos, rodar no último cone e regressar em velocidade pelo exterior. Introduzir uma finta obrigatória em cada cone.",
+      "material": ["Bolas", "Cones"]
+    },
+    {
+      "id": "dri-002",
+      "nome": "Rei do quadrado",
+      "categoria": "Drible e condução",
+      "duracao": 12,
+      "descricao": "Todos conduzem a sua bola dentro de um quadrado de 15x15 m e tentam tirar a bola dos colegas para fora, protegendo a sua. Quem perde a bola faz um pequeno desafio técnico fora do quadrado e volta a entrar.",
+      "material": ["Bolas", "Cones"]
+    },
+    {
+      "id": "def-001",
+      "nome": "1x1 em corredor",
+      "categoria": "Defesa",
+      "duracao": 15,
+      "descricao": "Corredor de 8x15 m. O defensor passa ao atacante e sai a pressionar. O atacante tenta atravessar a linha final com a bola controlada. Trabalhar a aproximação, os apoios e a orientação do adversário para o lado desejado.",
+      "material": ["Bolas", "Cones", "Coletes"]
+    },
+    {
+      "id": "jog-001",
+      "nome": "4x4 com mini-balizas",
+      "categoria": "Jogo reduzido",
+      "duracao": 25,
+      "descricao": "Campo de 30x20 m com duas mini-balizas em cada linha final. Golo só é válido dentro de uma zona a 8 m da baliza, para incentivar a circulação da bola. Jogar períodos de 5 minutos.",
+      "material": ["Bolas", "Mini-balizas", "Coletes", "Cones"]
+    },
+    {
+      "id": "jog-002",
+      "nome": "Jogo com superioridade 3x3+2",
+      "categoria": "Jogo reduzido",
+      "duracao": 20,
+      "descricao": "Campo de 25x20 m. Dois jogadores neutros jogam sempre com a equipa que tem a bola. Cada 6 passes seguidos valem um ponto, e um golo vale dois. Trocar os neutros a cada período de 4 minutos.",
+      "material": ["Bolas", "Balizas", "Coletes", "Cones"]
+    },
+    {
+      "id": "coo-001",
+      "nome": "Circuito de escadas e arcos",
+      "categoria": "Coordenação",
+      "duracao": 15,
+      "descricao": "Circuito com escada de coordenação, arcos e barreiras baixas, terminando com um passe do treinador devolvido à primeira. Mudar o padrão de apoios a cada duas passagens e dar prioridade à qualidade do movimento.",
+      "material": ["Escadas", "Arcos", "Barreiras", "Bolas"]
+    },
+    {
+      "id": "gr-001",
+      "nome": "Posição base e defesa baixa",
+      "categoria": "Guarda-redes",
+      "duracao": 15,
+      "descricao": "O guarda-redes parte da posição base entre dois cones. O treinador remata rasteiro a cada lado, alternadamente. Trabalhar o deslocamento lateral, a recolha da bola e a reposição rápida para um colega.",
+      "material": ["Bolas", "Cones", "Balizas"]
+    }
+  ]
+}
